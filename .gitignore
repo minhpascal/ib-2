@@ -2,3 +2,6 @@
 TwsApi.jar
 com/
 target/
+.DS_Store
+.idea/
+javaclient.iml
