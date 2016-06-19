@@ -1,1 +1,4 @@
 # ib
+
+`mvn package`
+
